@@ -4,4 +4,4 @@
   - przez 3 i 5 -> FUZZBUZZ
   - przez 3 -> FUZZ
   - przez 5 -> BUZZ
-  w przeciwnym wypadku zwraca liczbę
+ w przeciwnym wypadku zwraca liczbę
